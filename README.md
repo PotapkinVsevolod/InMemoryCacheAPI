@@ -14,14 +14,14 @@ TTL для каждого ключа (имплементация in memory cache
 
 ## Установка InMemoryCacheAPI
 
-Для установки News Aggregator, клонируйте репозиторий с github с помощью ссылки:
+Для установки InMemoryCacheAPI, клонируйте репозиторий с github с помощью ссылки:
 
 ```
 git clone https://github.com/PotapkinVsevolod/InMemoryCacheAPI.git
 ```
 Для работы приложения необходимо установить все необходимые зависимости из файла requirements.txt.
 
-## Использование News Aggregator
+## Использование InMemoryCacheAPI
 Приложение можно запустить следующей командой
 ```
 python app.py
