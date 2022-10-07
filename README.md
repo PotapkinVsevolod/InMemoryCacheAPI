@@ -3,7 +3,7 @@
 ![GitHub main code](https://img.shields.io/github/languages/top/PotapkinVsevolod/InMemoryCacheAPI)
 ![GitHub repo size](https://img.shields.io/github/repo-size/potapkinvsevolod/InMemoryCacheAPI)
 
-InMemoryCacheAPI - это REST приложение, написанное на Flask/Python для временного хранениея кэша в памяти по принципу ключ-значение, с возможностью установки
+InMemoryCacheAPI - это REST-API приложение, написанное в рамках выполнения тестового задания. Приложение рализовано на Flask/Python, предназначено для временного хранения кэша в памяти по принципу ключ-значение, с возможностью установки
 TTL для каждого ключа (имплементация in memory cache Redis).
 
 ## Необходимые условия
